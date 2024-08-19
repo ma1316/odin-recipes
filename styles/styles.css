@@ -1,7 +1,13 @@
-* {
-    font-family: 'Times New Roman', Times, serif;
+ul {
     background-color: blue;
     color: black;
     
+
+}
+
+* {
+background-color: aqua;
+font-weight: bolder;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
